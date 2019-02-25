@@ -1,10 +1,15 @@
-## :rocket: Codeigniter extended
+# :rocket: Codeigniter extended
 
-### Prerequriments
+## Features
+- [x] Eloquent
+- [x] Form Validation
+- [x] Blade
+
+## Prerequriments
   - PHP > 5.6
   - [Composer](https://getcomposer.org/)
 
-### Installation
+## Installation
 
  - Download this project
  - Go to root directory project
@@ -13,5 +18,5 @@
 composer install
 ```
 
-### Configuration
+## Configuration
  - Dont forget to configuration in config/database.php :monkey:
